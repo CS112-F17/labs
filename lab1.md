@@ -57,10 +57,10 @@ The goals of this assignment are the following:
 
 4. Make sure you have submitted your work in an SVN directory: `https://www.cs.usfca.edu/svn/<username>/cs112/lab1`
 
-### Grading Rubric
+<!--### Grading Rubric
 
 For this assignment, your solution must compile, run, produce correct output (*your* initials!), be well designed, and follow the [Style Guidelines](https://github.com/CS112-F17/notes/blob/master/style.md).
-
+-->
 ### Academic Dishonesty
 
 Any work you submit is expected to be your own original work. If you use any web resources in developing your code you are required to cite those resources. The only exception to this rule is code that is posted on the class website. The URL of the resource you used in a comment in your code is fine. If I google even a single line of uncited code and find it on the internet you may get a 0 on the assignment or an F in the class. You may also get a 0 on the assignment or an F in the class if your solution is at all similar to that of any other student.
