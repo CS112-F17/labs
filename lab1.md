@@ -1,7 +1,7 @@
 Lab 1
 =====
 
-### Due Friday, August 25, 2017 - 5:00pm
+### Due Monday, August 28, 2017 - 5:00pm
 
 The goals of this assignment are the following:
 
