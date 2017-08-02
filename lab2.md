@@ -35,7 +35,7 @@ Simple class with getters
       * `public double bitsToBytes(int bits)` - takes as input a number of bits and converts to bytes. A byte is 8 bits.
       * `public double celsiusToFahrenheit(int tempInCel)` - takes as input a temperature in celsius and converts to fahrenheit. Tfar = Tcel * 9/5 + 32.
       * `public int dayOfYear(int day, String month)` - takes as input a day and month and returns the day number of the year. Assume the year is 2017 (not a leap year). January 1 is day number 1. February 1 is day number 32. December 31 is day number 365. Return -1 if the day is invalid for the specified month or if the month is not a valid month. The parameter month must be the complete month spelled out beginning with a capital letter. 
-  - Create a class `ConversionsDriver`. The logic in the `main` method of `Driver` will be as follows:
+  - Create a class `ConversionsDriver`. The logic in the `main` method of `ConversionsDriver` will be as follows:
       * Create an instance of `ConversionsHelper`
       * Prompt the user for a number of bits
       * Print the result of using the `bitsToBytes` method to convert the user's value to bytes.
