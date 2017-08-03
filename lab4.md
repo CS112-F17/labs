@@ -50,7 +50,8 @@ The goal of this assignment is to practice implementing programs that use the fo
 		return -1;
 	}
 	```
-	- Create a class `StringManipulationsDriver`. Create an instance of `StringManipulations` and test the methods `countChars` and `longestWord` by calling each method at least three times with different input parameters and printing the result.
+  
+  - Create a class `StringManipulationsDriver`. Create an instance of `StringManipulations` and test the methods `countChars` and `longestWord` by calling each method at least three times with different input parameters and printing the result.
 
 2. **Part 2 (15 points)**: Implement a program that reads the contents of a text file, stores each word in an `ArrayList`, sorts the list, then prints the  contents in order smallest to largest and largest to smallest.
   - Create a class `Sorter.java` with only a `main` method.
