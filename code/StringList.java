@@ -27,7 +27,7 @@ public class StringList {
 	}
 
 	//TODO: Consider one or more private helper methods.
-
+	
 	/**
 	 * Add the new item to the end of the list.
 	 * 
@@ -59,6 +59,23 @@ public class StringList {
 		return false;
 	}
 
+	
+	/**
+	 * Remove the first instance of item. Make sure to 
+	 * shift all other items up to ensure no "empty" spaces in the 
+	 * array.
+	 * 
+	 * If the item does not appear in the array return false, otherwise
+	 * return true.
+	 * 
+	 * @param position
+	 * @return
+	 */
+	public boolean remove(String item) {
+		//TODO: Replace with your code.
+		return false;
+	}
+
 	/**
 	 * Return true if the array contains item and false otherwise.
 	 * 
@@ -67,7 +84,7 @@ public class StringList {
 	 */
 	public boolean contains(String item) {
 		//TODO: Replace with your code.
-		return false;
+		return false;		
 	}
 
 	/**
@@ -89,6 +106,33 @@ public class StringList {
 		return false;
 	}
 
+	/**
+	 * Return the index of the given item. 
+	 * 
+	 * If the item does not exist, return -1;
+	 * 
+	 * @param item
+	 * @return
+	 */
+	public int indexOf(String item) {
+		//TODO: Replace with your code.
+		return -1;
+	}
+
+	/**
+	 * Return the last index of the given item.
+	 * 
+	 * If the item appears more than once you will return
+	 * the index where it appears last.
+	 * 
+	 * If the item does not exist in the array return -1;
+	 * @param item
+	 * @return
+	 */
+	public int lastIndexOf(String item) {
+		//TODO: Replace with your code.
+		return -1;
+	}
 
 	/**
 	 * Return a String representation of the array.
@@ -102,7 +146,7 @@ public class StringList {
 	 */
 	public String toString() {
 		//TODO: Replace with your code.
-		return null;
+		return "";
 	}
 
 }
