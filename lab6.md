@@ -1,7 +1,7 @@
 Lab 6
 =====
 
-### Due Friday, October 25, 2017 - 5:00pm
+### Due Friday, October 27, 2017 - 5:00pm
 
 The goal of this assignment is to implement programs using interfaces and inheritance.
 
