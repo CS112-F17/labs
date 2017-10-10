@@ -76,7 +76,7 @@ public class ArrayUtilitiesTester {
 		};
 		char[] smallestExpected = {'c', 'b', 'a', 'b'};
 		char[] smallestActual = ArrayUtilities.smallestPerRow(smallestOriginal);
-		if(results("Largest Per Row Test:", smallestExpected, smallestActual)) passed++;
+		if(results("Smallest Per Row Test:", smallestExpected, smallestActual)) passed++;
 		total++;
 
 		System.out.println("=============");
