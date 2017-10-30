@@ -1,7 +1,7 @@
 Lab 7
 =====
 
-### Due Friday, October 27, 2017 - 5:00pm
+### Due Friday, November 17, 2017 - 5:00pm
 
 The goal of this assignment is to implement programs using recursion and the `HashMap` class.
 
